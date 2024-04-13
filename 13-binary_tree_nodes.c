@@ -11,7 +11,7 @@ size_t  node = 0;
 
 if (tree == NULL)
 {
-return (0);	
+return (0);
 }
 else
 {
